@@ -1,0 +1,6 @@
+*.DS_Store
+layers_main/.pioenvs/
+layers_main/.pioenvs
+layers_main/.pioenvs/*
+layers_main/.clang_complete
+layers_main/.gcc-flags.json

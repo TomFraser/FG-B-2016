@@ -1,0 +1,55 @@
+void updateEEPROM(){
+
+}
+
+void updateOnBootEEPROM(){
+    float speedMultiplier = (EEPROM.read(EEPROM_SPEEDMULTIPLY_AD)) * 10;
+    bool usingTSOPS = true;
+    if(EEPROM.read(EEPROM_USEPIXY_AD) == 1){
+        bool usePixy = true;
+    }
+    else{
+        bool usePixy = false;
+    }
+    if(EEPROM.read(EEPROM_USEULTRASONICS_AD) == 1){
+        bool useUltrasonics = true;
+    }
+    else{
+        bool useUltrasonics = false;
+    }
+    if(EEPROM.read(EEPROM_USECOMPASS_AD) == 1){
+        bool useCompasss = true;
+    }
+    else{
+        useCompass = false;
+    }
+    if(EEPROM.read(EEPROM_USELIGHT_AD) == 1){
+        bool useLight = true;
+    }
+    else{
+        bool useLight = false;
+    }
+    if(EEPROM.read(EEPROM_USEXBEE_AD) == 1){
+        bool useXBee = true;
+    }
+    else{
+        bool useXBee = false;
+    }
+    int orbitNum = EEPROM.read(EEPROM_USEORBITNUM_AD);
+    if(EEPROM.read(EEPROM_CALCANGLE_AD) == 1){
+        bool calcAngle = true;
+    }
+    else{
+        bool calcAngle = false;
+    }
+    if(EEPROM.read(EEPROM_RETURNTOGOALONLOSS_AD) == 1){
+        bool returnToGoal = true;
+    }
+    else{
+        bool returnToGoal = false;
+    }
+}
+
+void cardUpdate(){
+
+}
