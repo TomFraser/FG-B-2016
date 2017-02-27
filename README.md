@@ -4,11 +4,9 @@
 
 Main Repo for FG&B Robotics (Formerly SHF Robotics) 2016
 
-Tom Hulbert, Tom Fraser :heart:
+Tom Hulbert, Tom Fraser, Alistair English, William Plummer, Cooper Richmond :heart::heart:
 
 -------------------------------------------------------------
-
-Team **SHF** & **ACW** have joined forces and formed **Five Guys & Box**!
 
 Checkout **FG&Bs** Website @ https://acw.bbcrobotics.org
 
@@ -17,8 +15,12 @@ Checkout **FG&Bs** Website @ https://acw.bbcrobotics.org
 To Do List
 - [x] Make Robot
 - [x] Make Robot Work
-- [x] Contemplate Suicide Over State of Robot 1 Week Before Competition
 - [x] Watch Robot Fail at Nationals Because of the **curse**
-^^^^ IT REALLY HAPPENED!
+- ^^^^ IT REALLY HAPPENED!
+
+-------------------------------------------------------------
+
+**Feel Free To Use Any Concepts Used Within This Repo**
+**If You Plan On Copying Large Parts Of Code, Please Email tr.fraser@bigpond.com For Permission**
 
 -------------------------------------------------------------
