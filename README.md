@@ -1,4 +1,10 @@
 -------------------------------------------------------------
+-------------------------------------------------------------
+
+**Feel Free To Use Any Concepts Used Within This Repo**
+**If You Plan On Copying Large Parts Of Code, Please Email tr.fraser@bigpond.com For Permission**
+
+-------------------------------------------------------------
 
 **SHF Robotics**
 
@@ -23,4 +29,5 @@ To Do List
 **Feel Free To Use Any Concepts Used Within This Repo**
 **If You Plan On Copying Large Parts Of Code, Please Email tr.fraser@bigpond.com For Permission**
 
+-------------------------------------------------------------
 -------------------------------------------------------------
