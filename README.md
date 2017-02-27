@@ -1,7 +1,7 @@
 -------------------------------------------------------------
 -------------------------------------------------------------
 
-**Feel Free To Use Any Concepts Used Within This Repo**
+**Feel Free To Use Any Concepts Used Within This Repo.**
 **If You Plan On Copying Large Parts Of Code, Please Email tr.fraser@bigpond.com For Permission**
 
 -------------------------------------------------------------
@@ -23,11 +23,6 @@ To Do List
 - [x] Make Robot Work
 - [x] Watch Robot Fail at Nationals Because of the **curse**
 - ^^^^ IT REALLY HAPPENED!
-
--------------------------------------------------------------
-
-**Feel Free To Use Any Concepts Used Within This Repo**
-**If You Plan On Copying Large Parts Of Code, Please Email tr.fraser@bigpond.com For Permission**
 
 -------------------------------------------------------------
 -------------------------------------------------------------
