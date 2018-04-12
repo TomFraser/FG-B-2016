@@ -1,4 +1,4 @@
--------------------------------------------------------------
+# FG&B 2016 Repo
 -------------------------------------------------------------
 
 **Feel Free To Use Any Concepts Used Within This Repo.**
@@ -14,10 +14,6 @@ Tom Hulbert, Tom Fraser, Alistair English, William Plummer, Cooper Richmond :hea
 
 -------------------------------------------------------------
 
-Checkout **FG&Bs** Website @ https://acw.bbcrobotics.org
-
--------------------------------------------------------------
-
 To Do List
 - [x] Make Robot
 - [x] Make Robot Work
@@ -25,4 +21,5 @@ To Do List
 - ^^^^ IT REALLY HAPPENED!
 
 -------------------------------------------------------------
+Sorry about rude commit messages, comments and messy code.
 -------------------------------------------------------------
