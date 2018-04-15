@@ -21,5 +21,7 @@ To Do List
 - ^^^^ IT REALLY HAPPENED!
 
 -------------------------------------------------------------
+
 Sorry about rude commit messages, comments and messy code.
+
 -------------------------------------------------------------
